@@ -1,5 +1,5 @@
 /*
-    TOBIAS FURTADO 170141X - 29.08
+    TOBIAS FURTADO - 29/08/2017 - LP1
 
     EXERCICIO 2.
         Escreva um programa que imprima um vetor
